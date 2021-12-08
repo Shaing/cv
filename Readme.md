@@ -8,7 +8,7 @@ Source: https://www.flickr.com/photos/spacex/
 - Allen Huang
 - Male, 1988, Taiwan
 - a09281234@gmail.com
-- New teipei city, Taiwan
+- New Teipei City, Taiwan
 - https://www.linkedin.com/in/allenshaing/
 - https://allenshaing.wordpress.com/
 - https://medium.com/@allenshaing
@@ -16,7 +16,7 @@ Source: https://www.flickr.com/photos/spacex/
 
 # Eduction
 - National Yang Ming Chiao Tung University, Hsinchu City, Taiwan, 2018-2021
-- National Formosa University, Huwei Township, Yunlin, Taiwan, 2007-2011
+- National Formosa University, Yunlin, Taiwan, 2007-2011
 
 # Work experience
 Period | Company | Link
@@ -48,5 +48,5 @@ C | Good | 3
 - Hiking🥾
 - Family👩‍❤️‍👨
 
-# Githib stats
+# Github stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=shaing&show_icons=true)
