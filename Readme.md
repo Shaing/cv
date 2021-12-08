@@ -12,6 +12,7 @@ Source: https://www.flickr.com/photos/spacex/
 - https://www.linkedin.com/in/allenshaing/
 - https://allenshaing.wordpress.com/
 - https://medium.com/@allenshaing
+- [Resume](https://docs.google.com/document/d/1NLL8ianEoQUx2jKxBDB_f_3FsS-EecgI81KVF3pFiNE/edit?usp=sharing)
 
 
 # Eduction
