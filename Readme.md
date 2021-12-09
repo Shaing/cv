@@ -22,7 +22,7 @@ Source: https://www.flickr.com/photos/spacex/
 # Work experience
 Period | Company | Link
 --- | --- | ---
-Aug. 2020 - current | Section manager, Innodisk | [2020](./2020/ReadMe.md), [2021](./2021/ReadMe.md)
+Aug. 2020 - Current | Section manager, Innodisk | [2020](./2020/ReadMe.md), [2021](./2021/ReadMe.md)
 Jul. 2018 - Aug. 2020 | Senior SW, Innodisk | [2018](./2018/ReadMe.md), [2019](./2019/ReadMe.md), [2020](./2020/ReadMe.md)
 Jan. 2017 - Jul. 2018 | SW, Innodisk | [2017](./2017/ReadMe.md), [2018](./2018/ReadMe.md)
 Feb. 2015 - Nov. 2016 | PE, Innodisk | [2015](./2015/ReadMe.md), [2016](./2016/ReadMe.md)
@@ -49,5 +49,9 @@ C | Good | 3
 - Hiking🥾
 - Family👩‍❤️‍👨
 
-# Github stats
+# GitHub stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=shaing&show_icons=true)
+
+# Reference
+https://github.com/richelbilderbeek/cv
+
