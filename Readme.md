@@ -31,6 +31,7 @@ Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | "It's not onl
 # Publish Work-related
 [在宜鼎國際工作的日常與軟體開發的過程 [1]](https://medium.com/@AllenShaing/%E5%9C%A8%E5%AE%9C%E9%BC%8E%E5%9C%8B%E9%9A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%97%A5%E5%B8%B8%E8%88%87%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E7%9A%84%E9%81%8E%E7%A8%8B-1-75cc9d3ff185)  
 [在宜鼎國際工作的日常與軟體開發的過程 [2]](https://medium.com/@AllenShaing/%E5%9C%A8%E5%AE%9C%E9%BC%8E%E5%9C%8B%E9%9A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%97%A5%E5%B8%B8%E8%88%87%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E7%9A%84%E9%81%8E%E7%A8%8B-2-92c8bc029cf)
+[在宜鼎國際工作的日常與軟體開發的過程 [3]](https://medium.com/@AllenShaing/%E5%9C%A8%E5%AE%9C%E9%BC%8E%E5%9C%8B%E9%9A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%97%A5%E5%B8%B8%E8%88%87%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E7%9A%84%E9%81%8E%E7%A8%8B-3-6da0a537728b)
 
 # Natural languages
 Language | Writing | Speaking
