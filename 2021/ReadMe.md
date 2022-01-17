@@ -5,7 +5,7 @@
 # 2021
 - Software develop section manager, 01-12    
   - Responsible for managing 4+ direct reports.
-  - Lead MCU/SoC 
+  - Lead MCU/SoC projects.
 
 - Got a master's degree in CS from NYCU 🚀🚀🚀
   - [階層式物聯網](./nycu_Allen_Huang_210524.pdf)
