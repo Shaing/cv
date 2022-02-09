@@ -17,6 +17,7 @@ Source: https://www.flickr.com/photos/spacex/
 
 # Eduction
 - National Yang Ming Chiao Tung University, Hsinchu City, Taiwan, 2018-2021
+  - [Tiers of IoT Architecture](https://hdl.handle.net/11296/z872wv)
 - National Formosa University, Yunlin, Taiwan, 2007-2011
 
 # Work experience
