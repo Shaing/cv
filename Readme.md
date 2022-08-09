@@ -23,11 +23,12 @@ Source: https://www.flickr.com/photos/spacex/
 # Work experience
 Period | Company | Link
 --- | --- | ---
-Aug. 2020 - Current | Section manager, Innodisk | [2020](./2020/ReadMe.md), [2021](./2021/ReadMe.md)
+Aug. 2022 - Current | Assistant manager, Innodisk | [2022](./2022/ReadMe.md)
+Aug. 2020 - Jul. 2022 | Section manager, Innodisk | [2020](./2020/ReadMe.md), [2022](./2022/ReadMe.md)
 Jul. 2018 - Aug. 2020 | Senior SW, Innodisk | [2018](./2018/ReadMe.md), [2019](./2019/ReadMe.md), [2020](./2020/ReadMe.md)
 Jan. 2017 - Jul. 2018 | SW, Innodisk | [2017](./2017/ReadMe.md), [2018](./2018/ReadMe.md)
 Feb. 2015 - Nov. 2016 | PE, Innodisk | [2015](./2015/ReadMe.md), [2016](./2016/ReadMe.md)
-Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | "It's not only beginning of my career but also most darkness times in my life."  這是我人生起點, 也是最黑暗的時刻.
+Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | "It's not only beginning of my career but also be most darkness part in my life."  這是我人生起點, 也是最黑暗的時刻.
 
 # Publish Work-related
 [在宜鼎國際工作的日常與軟體開發的過程 [1]](https://medium.com/@AllenShaing/%E5%9C%A8%E5%AE%9C%E9%BC%8E%E5%9C%8B%E9%9A%9B%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%97%A5%E5%B8%B8%E8%88%87%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E7%9A%84%E9%81%8E%E7%A8%8B-1-75cc9d3ff185)  
