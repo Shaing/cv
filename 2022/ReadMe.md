@@ -37,4 +37,5 @@ AI | Training | [DataAugmentationForObjectDetection](https://github.com/aiotads/
 AI | Edge AI | [dpu-sc](https://github.com/InnoIPA/dpu-sc)
 Tool | Platform | [stesting-sc](https://github.com/InnoIPA/stesting-sc)
 Arch. | GStreamer | VVAS vs DeepStream
+Business | Innodisk  | [2022 ATCC Mentor](https://www.atcc.co/)
 Business | INTERNSHIP  | 2022 INTERN Playbook
