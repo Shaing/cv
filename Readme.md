@@ -21,6 +21,17 @@ Source: https://www.flickr.com/photos/spacex/
 - National Formosa University, Yunlin, Taiwan, 2007-2011
 
 # Work experience
+```
+#IoT #AIoT #EdgeComputing #DeepLearning #EmbeddedSoftware #EmbeddedSystem #Linux
+
+7+ years of working experience in AIoT:
+- 2+ years of experience with technical leadership and people management.
+- 1+ years of relevant work experience in AI solutions development in Edge Computing.
+- 5+ years of relevant work experience in system software development in C/C++/Python.
+- 2 years of relevant work experience in SSD product engineer.
+```
+
+
 Period | Company | Link
 --- | --- | ---
 Aug. 2022 - Current | Assistant manager, Innodisk | [2022](./2022/ReadMe.md)
