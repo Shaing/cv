@@ -7,7 +7,7 @@ Source: https://www.flickr.com/photos/spacex/
 # Contact information
 - Allen Huang
 - Male, 1988, Taiwan
-- a09281234@gmail.com
+- a09281234@gmail.com / allenshaing@protonmail.com
 - New Taipei City, Taiwan
 - https://www.linkedin.com/in/allenshaing/
 - https://allenshaing.wordpress.com/
