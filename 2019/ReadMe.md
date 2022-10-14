@@ -31,7 +31,7 @@
 - TensonRT
 
 ### Project list
-Tpye | Function | Name 
+Type | Function | Name 
 --- | --- | --- | 
 Deep Leraning | Presentation | CNN_卷積神經網路介紹
 Deep Leraning | Presentation | NVDLA_INTRODUCTION

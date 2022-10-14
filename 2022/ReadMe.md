@@ -29,7 +29,7 @@ AI Solutions provider.
 
 
 ### Project list
-Tpye | Function | Name 
+Type | Function | Name 
 --- | --- | --- | 
 AI | Training | [Ultra96 Yolov4-tiny and Yolo-Fastest](https://github.com/aiotads/Ultra96-Yolov4-tiny-and-Yolo-Fastest)
 AI | Training | [Darknet](https://github.com/aiotads/darknet)
@@ -39,3 +39,4 @@ Tool | Platform | [stesting-sc](https://github.com/InnoIPA/stesting-sc)
 Arch. | GStreamer | VVAS vs DeepStream
 Business | Innodisk  | [2022 ATCC Mentor](https://www.atcc.co/)
 Business | INTERNSHIP  | 2022 INTERN Playbook
+Guide | Document | [EXMU-X261-usermanual](https://github.com/InnoIPA/EXMU-X261-usermanual)

@@ -47,7 +47,7 @@ AIOT, OOB(Out-of-band)頻外管理, 團隊管理, Microsoft, 區塊鏈
 - GitHub: 程式原始碼管控與Bug追蹤
 
 ### Project list
-Tpye | Function | Name 
+Type | Function | Name 
 --- | --- | --- | 
 AIoT | Presentation | Breakthrough in IoT Device Management on Microsoft Azure Sphere bootcamp at korea
 Business | Presentation | 淺談Out of Band Management

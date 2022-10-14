@@ -31,7 +31,7 @@ MCU, Embedded Linux, 嵌入式系統軟體開發, SoC/SoM, Deep learning
 - keras
 
 ### Project list
-Tpye | Function | Name 
+Type | Function | Name 
 --- | --- | --- | 
 AIoT | InnoAGE | [Avalue RS2](http://www.renity.com.tw/en/RS2.aspx)
 AIoT | InnoAGE | [InnoBTS](https://www.innodisk.com/tw/newsDetail/innodisk-to-release-blockchain-ssd-securing-radical-edge-data-integrity)
