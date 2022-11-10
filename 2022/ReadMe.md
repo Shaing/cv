@@ -40,3 +40,4 @@ Arch. | GStreamer | VVAS vs DeepStream
 Business | Innodisk  | [2022 ATCC Mentor](https://www.atcc.co/)
 Business | INTERNSHIP  | 2022 INTERN Playbook
 Guide | Document | [EXMU-X261-usermanual](https://github.com/InnoIPA/EXMU-X261-usermanual)
+AI | Product | [EXMU-X261](https://www.innodisk.com/en/products/embedded-peripheral/fpga/exmu-x261)
