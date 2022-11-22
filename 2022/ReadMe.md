@@ -41,3 +41,5 @@ Business | Innodisk  | [2022 ATCC Mentor](https://www.atcc.co/)
 Business | INTERNSHIP  | 2022 INTERN Playbook
 Guide | Document | [EXMU-X261-usermanual](https://github.com/InnoIPA/EXMU-X261-usermanual)
 AI | Product | [EXMU-X261](https://www.innodisk.com/en/products/embedded-peripheral/fpga/exmu-x261)
+AI | Product | [Powered by Xilinx](https://www.xilinx.com/video/corporate/innodisk-machine-vision-solution-kit-powered-by-amd-kria-som.html)
+
