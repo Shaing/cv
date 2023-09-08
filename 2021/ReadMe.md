@@ -38,6 +38,6 @@ AIoT | InnoAGE | [InnoBTS](https://www.innodisk.com/tw/newsDetail/innodisk-to-re
 AIoT | InnoAGE | [Azure Certified Device](https://devicecatalog.azure.com/devices?searchTerm=innoage)
 Deep leraning | MFG, Innodisk | Defect detection
 
-
+[Go to 2022](../2022-23/ReadMe.md)
 
 

@@ -17,3 +17,5 @@
 - Analyzed user behavior and SSD behavior patterns through production logs. Conducted Flash bad block analysis and quality assessment to eliminate redundant testing, identify data arguments, and define optimized testing processes.
 
 - Translated production processes and experiences into code, implementing automated solutions. Integrated manual actions using code to construct processes.
+
+[Go to 2017](../2017/ReadMe.md)

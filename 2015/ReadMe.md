@@ -19,3 +19,5 @@
 - Conducting SSD circuit analysis and maintenance, debugging, assisting in factory repair department to resolve defective products, and reporting hardware research and development issues.
 - Enhancing maintenance personnel inspection methods, including measuring power IC.
 - Assisting FAE (Field Application Engineer) in addressing customer complaints, analyzing processes and production methods for feedback and improvement.
+
+[Go to 2016](../2016/ReadMe.md)

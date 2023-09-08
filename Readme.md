@@ -1,8 +1,8 @@
-# CV
-Allen Huang's Curriculum vitae
+# Allen Huang's Curriculum vitae
+``` Strive for consistency. Not perfection. ```
 
-![Launch](launch.jpg)
-Source: https://www.flickr.com/photos/spacex/
+![jane_2023](jane_2023.jpg)
+`Jane in the one-year-old catch, 2023.`
 
 # Contact information
 - Allen Huang
@@ -29,13 +29,11 @@ Source: https://www.flickr.com/photos/spacex/
 - 1+ years of relevant work experience in AI solutions development in Edge Computing.
 - 5+ years of relevant work experience in system software development in C/C++/Python.
 - 2 years of relevant work experience in SSD product engineer.
-
 ```
-
 
 Period | Company | Link
 --- | --- | ---
-Aug. 2022 - Current | Assistant manager, Innodisk | [2022](./2022/ReadMe.md)
+Aug. 2022 - Current | Assistant manager, Innodisk | [2022-23](./2022-23/ReadMe.md)
 Aug. 2020 - Jul. 2022 | Section manager, Innodisk | [2020](./2020/ReadMe.md), [2022](./2022/ReadMe.md)
 Jul. 2018 - Aug. 2020 | Senior SW, Innodisk | [2018](./2018/ReadMe.md), [2019](./2019/ReadMe.md), [2020](./2020/ReadMe.md)
 Jan. 2017 - Jul. 2018 | SW, Innodisk | [2017](./2017/ReadMe.md), [2018](./2018/ReadMe.md)
