@@ -1,5 +1,5 @@
 # Allen Huang's Curriculum vitae
-``` Strive for consistency. Not perfection. ```
+` Strive for consistency. Not perfection.`
 
 ![jane_2023](jane_2023.jpg)
 `Jane in the one-year-old catch, 2023.`
@@ -49,7 +49,7 @@ Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | The first les
 [我所採用的文件權限管理方式 with Notion(Personal Pro)](https://medium.com/@AllenShaing/%E6%88%91%E6%89%80%E6%8E%A1%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%E6%AC%8A%E9%99%90%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F-with-notion-personal-pro-b2da8b0d5a13)
 
 # Natural languages
-Language | Writing | Speaking | Reading | listing
+Language | Writing | Speaking | Reading | Listing
 --- | --- | --- | --- | ---
 Chinese (Native) | Proficient | Proficient | Proficient | Proficient
 English (B1) | Good | Good | Proficient | Good
