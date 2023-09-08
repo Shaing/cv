@@ -2,52 +2,66 @@
 
 ![nctu](./../img/nctu.png)
 
-# 2020
-- Software develop section manager, 01-12    
-  - Responsible for managing 3+ direct reports.
+# innodisk & NCTU | 2020
+- Software develop section manager | 01-12    
+  ```Responsible for managing 3+ direct reports.```
 
-- Master's student, 01-12  
+- Master's student | 01-12  
   - Recommendation system
 
-### Responsibilities
-AIOT, OOB(Out-of-band)頻外管理, 團隊管理, Microsoft, 區塊鏈
-- Promoted to team leader.
-- 研究AIoT市場及產品開發.
-- 負責InnoAGE產品軟體開發 [InnoAGE™ 2.5” SATA SSD 3TI7 Industrial Grade SSD.](https://www.innodisk.com/tw/products/flash-storage/ssd/25_innoage_ssd)
-- 與客戶合作並提供AIoT解決方案
-- 內外部IoT技術支援與技轉
-- 研究Out-Of-Band Management
+### Responsibilities:
 
-### Experience in the job
-- 建立產品開發團隊Workflow
-- 熟悉Azure服務及開發Azure Sphere應用
-- Microcontrollers, Linux, Serial Protocols, MQTT/MQTTs
-- IoT: 設計端到雲系統架構(Public Cloud: Azure/AWS)
-- 整合公有雲服務: IoT Hub, Azure Service, AWS IoT Core
-- 規劃Web API以及容器化Web Service(Node.js, Docker)去減少客戶整合產品的開發時間
-- MCU+SSD功能整合，打造Edge-IoT頻外管理(OOB)功能, 通訊協議與Vendor CMD
-- 解決物聯網裝置在服務中所遇到的網路問題, 如: IP設定, 伺服器, Router等等
-- 整合mDNS服務去解決內部網路在URL設定問題
-- 撰寫產品使用者文件
+- Team Leader in charge of AIOT and Out-of-Band (OOB) management.
+- Conducted research on the AIoT market and product development.
+- Led the software development for the InnoAGE™ 2.5” SATA SSD 3TI7 Industrial Grade SSD product.
+- Collaborated with customers to provide AIoT solutions.
+- Provided internal and external IoT technical support and technology transfer.
+- Conducted research on Out-Of-Band Management.
+- Expertise in Microsoft technologies and blockchain.
 
-### Skills
+### Experience in the Job:
+
+- Established a product development team workflow.
+- Proficient in Azure services and Azure Sphere application development.
+- Knowledge of microcontrollers, Linux, serial protocols, MQTT/MQTTs.
+- Designed end-to-end IoT system architectures, including public cloud integration with Azure and AWS.
+- Integrated public cloud services such as IoT Hub, Azure Service, and AWS IoT Core.
+- Planned Web APIs and containerized Web Services (Node.js, Docker) to reduce product development time for customers.
+- Integrated MCU+SSD functionality to create Edge-IoT Out-of-Band (OOB) management features, including communication protocols and Vendor CMD.
+- Resolved networking issues encountered by IoT devices during service, such as IP configuration, servers, routers, etc.
+- Integrated mDNS service to address internal network URL configuration issues.
+- Authored product user documentation.
+
+### Skills:
+
 - Azure IoT Hub
+
 - AWS IoT Core
+
 - Azure Sphere SDK
+
 - Docker
+
 - mDNS
+
 - CMake
+
 - MQTT
+
 - UART
 
 ### Teamwork
-- Notion: 團隊工作與開發資訊整合
-- Trello: 團隊週報與專案追蹤
-- Slack: 內部通訊與討論
-- GitHub: 程式原始碼管控與Bug追蹤
+
+- Notion (teamwork and development information integration)
+
+- Trello (team reports and project tracking)
+
+- Slack (internal communication and discussion)
+
+- GitHub (source code control and bug tracking)
 
 ### Project list
-Type | Function | Name 
+Application | Type | Topic 
 --- | --- | --- | 
 AIoT | Presentation | Breakthrough in IoT Device Management on Microsoft Azure Sphere bootcamp at korea
 Business | Presentation | 淺談Out of Band Management

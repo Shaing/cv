@@ -1,19 +1,21 @@
 ![logo](./../img/innodisk_logo.png)
-# 2015-02 
-> Joined PE, MFG, Innodisk  
+# innodisk | 2015 
 
-- Assistant product engineer, 02-04  
-- Product enginner, 05-12
+- Assistant product engineer | 02-04  
+- Product enginner | 05-12 
+
 ### Responsibilities
-- 撰寫生產SOP
-- 撰寫生產作業指導書
-- 負責USB產品線
-- USB客製專案生產導入
+- Drafting production SOPs (Standard Operating Procedures).  
+- Creating production operation manuals.  
+- Overseeing the USB product line.  
+- Implementing custom USB project production.
 ### Experience in the job
-- SSD製造,生產,測試. 負責2.5"&1.8" form factor.
-- 配置桌機及作業系統,安排測試軟體搭配生產流程. 負責MPTOOL&RW TEST TOOL使用者規劃.
-- 參與跨部門合作,協調,共同完成新產品及客製專案. 從原料,組裝,測試,檢驗手法通通包辦.
-- 潤滑工廠生產流程,改善及縮減操作手法. 有效處理系統相容性異常, LBA28與NCQ等問題.
-- SSD電路分析與維修,除錯,幫助工廠維修課解決不良產品,並回報HW-RD issue.
-- 改善維修人員檢修手法,如:針對power ic進行量測.
-- 協助FAE解決客訴,分析製程及生產手法進行回饋與改善.
+- Experience in SSD manufacturing, production, and testing, with responsibility for 2.5" and 1.8" form factors.
+- Configuring desktop computers and operating systems, coordinating test software integration into the production process.
+- Managing MP TOOL and RW TESTING TOOL user planning.
+- Collaborating across departments to complete new product and custom projects, overseeing everything from raw materials and assembly to testing and inspection methods.
+- Streamlining factory production processes, improving and reducing operating methods.
+- Effectively handling system compatibility issues, such as LBA28 and NCQ.
+- Conducting SSD circuit analysis and maintenance, debugging, assisting in factory repair department to resolve defective products, and reporting hardware research and development issues.
+- Enhancing maintenance personnel inspection methods, including measuring power IC.
+- Assisting FAE (Field Application Engineer) in addressing customer complaints, analyzing processes and production methods for feedback and improvement.

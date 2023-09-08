@@ -1,8 +1,8 @@
 ![logo](./../img/innodisk_logo.png)  
 
-# 2022
-- Software develop section manager, 01-7    
-- Software develop assistant manager, 08-12    
+# innodisk | 2022
+- Software develop section manager | 01-7    
+- Software develop assistant manager | 08-12    
 
 
 ### Responsibilities

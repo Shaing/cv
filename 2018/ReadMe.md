@@ -2,28 +2,30 @@
 
 ![nctu](./../img/nctu.png)
 
-# 2018
-> Admitted to NCTU in CS 
->  
-- Senior software develop enginner, 08-12  
-- Master's student, 09-12  
+# innodisk & NCTU | 2018
+``` Admitted to NCTU in CS ```
+- Senior software develop enginner | 08-12  
+- Master's student | 09-12  
   - Computer architecture a quantitative approach
     - [The final project] paper present, "Parallel implementation of ann training present"
   - Neural network
 
-### Responsibilities
-- 物聯網
-- 雲端架構
-- 智慧工廠
-- 新人求生指南教練
+### Responsibilities:
 
-### Experience in the job
-- NVMe disk測試, PCIE介面硬體位置判斷與熱插拔解決方案.
-- 打造新人求生指南,縮短學習與探索時間,嘗試透過不一樣的教育訓練,提升效率.(成效:有經驗的新人可在三個月內獨立完成專案.)
-- Study SMART Factory 智慧工廠.
-- 從資料庫數據分析使用者行為,改良與優化生產流程. 從資料可以推翻透過人工口耳相傳的Error現象,例如:人工斷定程式Bug,但實際上錯誤地使用流程.
-- 進階資料庫操作. 使用view檢視表進行反正歸化整理,協助產品工程師分析異常,並分類原因.
-- 開發軟體入口, 解決client與server之間的耦合性,並可以更彈性的調整測試機台的軟體使用以及介面管理.
+- IoT (Internet of Things) implementation and management.
+- Cloud architecture design and maintenance.
+- Smart factory initiatives and optimization.
+- Coaching and mentoring new hires as a survival guide instructor(playbook).
+
+### Experience in the Job:
+
+- Conducted NVMe disk testing and developed solutions for identifying hardware positions and hot-swapping via the PCIe interface.
+- Created a "New Hire Survival Guide" program to accelerate the learning and exploration process, improving efficiency. Achieved results include experienced newcomers completing projects independently within three months.
+- Focused on studying SMART Factory concepts and practices.
+- Utilized database data analysis to enhance and optimize production processes. Discovered and corrected errors previously propagated through word of mouth, such as misdiagnosed program bugs that were actually usage errors.
+- Proficient in advanced database operations, including the use of views to normalize and organize data, assisting product engineers in analyzing anomalies and categorizing root causes.
+- Developed software interfaces to decouple client-server interactions, enabling more flexible adjustments to software usage and interface management on testing equipment.
+
 
 ### Skills
 - Programming language: python(CPython), html, SQL

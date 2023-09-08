@@ -2,9 +2,9 @@
 
 ![nctu](./../img/nctu.png)
 
-# 2019
-- Senior software develop enginner, 01-12  
-- Master's student, 01-12  
+# innodisk & NCTU | 2019
+- Senior software develop enginner | 01-12  
+- Master's student | 01-12  
   - Parallel Programming
     - [The final project] "Neural Network Implementation using OpenMP"
   - Embedded processor and SoC design
@@ -13,25 +13,28 @@
   - Algorithms
   - Formal language
 
-### Responsibilities
-數據分析, 機器學習, 深度學習
-- 研究深度學習框架
-- 研究NVDIA DLA
-- Data Analysis
+### Technical Skills:
 
-### Experience in the job
-- 廣推深度學習技術與知識, 從CNN開始著手, 由淺入深, 並延伸到各類框架, 分析市場應用.
-- 學習使用Caffe2去調整Hyperparameter訓練各種AI模型.
-- 研究DLA, 去測試並研究在SoC上, 透過DLA可以在Chip上增加多少算力(OPs), 分析市場應用.
-- 研究Xavier上DLA的效能, 比對有GPU及純DLA的效能差距, 並從中得到不少DLA實際的瓶頸.
-- 實作大數據(資料庫, 百萬)加上機器學習(線性回歸), 去分析出不同世代的主機板, 對於同步測試SSD IO的效能差距, 最終結果得到200%的產能成長
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Research in Deep Learning Frameworks
+- Research in NVIDIA DLA (Deep Learning Accelerator)
+
+### Experience in the Job:
+
+- Actively promoted deep learning technologies and knowledge, starting with Convolutional Neural Networks (CNNs) and progressing from foundational to advanced concepts. Analyzed market applications for deep learning.
+- Gained proficiency in using Caffe2 to fine-tune hyperparameters for training various AI models.
+- Conducted research on DLA (Deep Learning Accelerator) to test and understand its on-chip computational capabilities (OPs) in SoCs (System-on-Chips). Analyzed market applications for DLA.
+- Investigated the performance of DLA on Xavier, comparing it to systems with GPUs and pure DLA setups, identifying practical bottlenecks in DLA usage.
+- Executed large-scale data analysis (database with millions of records) combined with machine learning techniques (linear regression) to analyze performance differences among various generations of motherboards during synchronous SSD I/O testing. Achieved a 200% increase in production capacity as a result.
 
 ### Skills
 - Caffe2
 - TensonRT
 
 ### Project list
-Type | Function | Name 
+Application | Type | Topic 
 --- | --- | --- | 
 Deep Leraning | Presentation | CNN_卷積神經網路介紹
 Deep Leraning | Presentation | NVDLA_INTRODUCTION
