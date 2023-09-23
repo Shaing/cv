@@ -12,6 +12,7 @@
 - https://www.linkedin.com/in/allenshaing/
 - https://allenshaing.wordpress.com/
 - https://medium.com/@allenshaing
+- https://shaingos.substack.com/
 - [Resume](https://docs.google.com/document/d/1c-J7vfFyDerCdbbMqLhyEJbginZ0vk_I-R4EwXHyIFU/edit?usp=sharing)
 
 
@@ -60,7 +61,6 @@ Language | Skill | experience
 C++ | Proficient | STL, Data structure Algorithm, Desktop application, GUI Development
 Python | Proficient | Build-in module, Data structure Algorithm, GUI Development
 C | Proficient | Embedded Software
-
 
 # Hobbies
 - Workout💪
