@@ -21,6 +21,7 @@
 - National Yang Ming Chiao Tung University, Hsinchu City, Taiwan, 2018-2021
   - [Tiers of IoT Architecture](https://hdl.handle.net/11296/z872wv)
 - National Formosa University, Yunlin, Taiwan, 2007-2011
+  - [第五屆盛群盃得獎名單, 玩具組, B-24](https://mcu.holtek.com.tw/mcugame18/history.aspx)  
 
 # Work experience
 ```
