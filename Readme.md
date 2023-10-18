@@ -37,7 +37,7 @@
 Period | Company | Link
 --- | --- | ---
 Aug. 2022 - Current | Assistant manager, Innodisk | [2022-23](./2022-23/ReadMe.md)
-Aug. 2020 - Jul. 2022 | Section manager, Innodisk | [2020](./2020/ReadMe.md), [2022](./2022-23/ReadMe.md)
+Aug. 2020 - Jul. 2022 | Section manager, Innodisk | [2020](./2020/ReadMe.md), [2021](./2021/ReadMe.md), [2022](./2022-23/ReadMe.md)
 Jul. 2018 - Aug. 2020 | Senior SW, Innodisk | [2018](./2018/ReadMe.md), [2019](./2019/ReadMe.md), [2020](./2020/ReadMe.md)
 Jan. 2017 - Jul. 2018 | SW, Innodisk | [2017](./2017/ReadMe.md), [2018](./2018/ReadMe.md)
 Feb. 2015 - Nov. 2016 | PE, Innodisk | [2015](./2015/ReadMe.md), [2016](./2016/ReadMe.md)
