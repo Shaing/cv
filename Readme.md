@@ -15,7 +15,6 @@
 - https://www.linkedin.com/in/allenshaing/
 - https://allenshaing.wordpress.com/
 - https://medium.com/@allenshaing
-- https://shaingos.substack.com/
 
 # Eduction
 - National Yang Ming Chiao Tung University, Hsinchu City, Taiwan, 2018-2021
@@ -27,16 +26,14 @@
 ```
 #IoT #AIoT #EdgeComputing #DeepLearning #SoftwareService # SoftwareSolution #Linux
 
-8+ years of working experience in AIoT:
-- 3+ years of experience with technical leadership and people management.
-- 1+ years of relevant work experience in AI solutions development in Edge Computing.
-- 5+ years of relevant work experience in system software development in C/C++/Python.
-- 2 years of relevant work experience in SSD product engineer.
+9+ years of working experience in AI/IoT, including:
+- 4+ years of experience with technical leadership and people management.
+- 4+ years of relevant work experience in AI solution development in Edge Computing.
 ```
 
 Period | Company | Link
 --- | --- | ---
-Aug. 2022 - Current | Assistant manager, Innodisk | [2022-23](./2022-23/ReadMe.md)
+Aug. 2022 - Current | Assistant manager, Innodisk | [2022-24](./2022-24/ReadMe.md)
 Aug. 2020 - Jul. 2022 | Section manager, Innodisk | [2020](./2020/ReadMe.md), [2021](./2021/ReadMe.md), [2022](./2022-23/ReadMe.md)
 Jul. 2018 - Aug. 2020 | Senior SW, Innodisk | [2018](./2018/ReadMe.md), [2019](./2019/ReadMe.md), [2020](./2020/ReadMe.md)
 Jan. 2017 - Jul. 2018 | SW, Innodisk | [2017](./2017/ReadMe.md), [2018](./2018/ReadMe.md)
