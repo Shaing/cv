@@ -13,7 +13,7 @@
 
 # Personal Website
 - https://www.linkedin.com/in/allenshaing/
-- https://medium.com/@allenshaing
+- https://allenshaing.com
 
 # Eduction
 - National Yang Ming Chiao Tung University, Hsinchu City, Taiwan, 2018-2021
