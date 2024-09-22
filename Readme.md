@@ -7,7 +7,7 @@
 # Contact information
 - Allen Huang
 - Male, 1988, Taiwan
-- a09281234@gmail.com
+- a09281234@gmail.com / allenshaing@protonmail.com
 - New Taipei City, Taiwan
 - [Resume on Google doc](https://docs.google.com/document/d/1c-J7vfFyDerCdbbMqLhyEJbginZ0vk_I-R4EwXHyIFU/edit?usp=sharing)
 
