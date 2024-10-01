@@ -23,7 +23,7 @@
 
 # Work experience
 ```
-#IoT #AIoT #EdgeComputing #DeepLearning #SoftwareService # SoftwareSolution #InnovationLeadership #CriticalThinking #StrategicDecisionMaking
+#IoT #AIoT #EdgeComputing #DeepLearning #SoftwareService #SoftwareSolution #InnovationLeadership #CriticalThinking #StrategicDecisionMaking
 
 With 9+ years of experience in AI and IoT, and 4+ years leading teams, I drive innovation and strategic decisions in Edge Computing. My focus is on fostering collaboration, solving complex challenges, and delivering impactful AI solutions.
 
