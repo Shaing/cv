@@ -51,4 +51,4 @@ AI | Product | [Powered by Xilinx](https://www.xilinx.com/video/corporate/innodi
 AI | Utility | [vaiGO](https://github.com/InnoIPA/vaiGO)
 OTA | Utility | [EXMU-X261-swu-utility](https://github.com/InnoIPA/EXMU-X261-swu-utility)
 CAMERA | Driver | [EV2M-OOM1](https://www.innodisk.com/en/products/embedded-peripheral/camera-module/ev2m-oom1), [EV2M-GOM1](https://www.innodisk.com/en/products/embedded-peripheral/camera-module/ev2m-gom1)
-AI | Solution | [PPE Solution](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?CnlID=13&id=693120)
+AI | Solution | [PPE Solution](https://www.innodisk.com/en/applications/InnoPPE)
