@@ -79,7 +79,8 @@ Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | The first les
 - [我如何實踐1:1](https://medium.com/allenshaing/%E6%88%91%E5%A6%82%E4%BD%95%E5%AF%A6%E8%B8%901-1-32efe7721a1d)  
 - [Interview](https://medium.com/allenshaing/interview-a16e2d6b58f2)  
 - [教練 Coaching](https://medium.com/allenshaing/%E6%95%99%E7%B7%B4-coaching-ce06b3c30c15)  
-- [採用OKR後的化學效應](https://medium.com/1-1-with-ateam/%E6%8E%A1%E7%94%A8okr%E5%BE%8C%E7%9A%84%E5%8C%96%E5%AD%B8%E6%95%88%E6%87%89-cd9a6154ae0f)  
+- [採用OKR後的化學效應](https://medium.com/1-1-with-ateam/%E6%8E%A1%E7%94%A8okr%E5%BE%8C%E7%9A%84%E5%8C%96%E5%AD%B8%E6%95%88%E6%87%89-cd9a6154ae0f)
+- [培養日記: 如何避免成為一位無聊的Leader](https://medium.com/p/5902966e25fd)
 
 
 # Natural languages
