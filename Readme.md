@@ -25,11 +25,11 @@
 ```
 #IoT #AIoT #EdgeComputing #DeepLearning #SoftwareService #SoftwareSolution #InnovationLeadership #CriticalThinking #StrategicDecisionMaking
 
-With 9+ years of experience in AI and IoT, and 4+ years leading teams, I drive innovation and strategic decisions in Edge Computing. My focus is on fostering collaboration, solving complex challenges, and delivering impactful AI solutions.
+With 10+ years of experience in AI and IoT, and 4+ years leading teams, I drive innovation and strategic decisions in Edge Computing. My focus is on fostering collaboration, solving complex challenges, and delivering impactful AI solutions.
 
-9+ years of working experience in AI/IoT, including:
-- 4+ years of experience with technical leadership and people management.
-- 4+ years of relevant work experience in AI solution development in Edge Computing.
+10+ years of working experience in AI/IoT, including:
+- 5+ years of experience with technical leadership and people management.
+- 5+ years of relevant work experience in AI solution development in Edge Computing.
 ```
 
 Period | Company | Link
@@ -58,7 +58,6 @@ Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | The first les
 - [JUCE coding standards note](https://allenshaing.notion.site/2018-05-13-JUCE-coding-standards-note-a74d6144e9604471b4f3275042d47085?pvs=4)  
 - [為什麼你要了解邏輯判斷&&(AND)和||(OR)](https://allenshaing.notion.site/2018-07-07-AND-OR-3517b2f314ad488eb238c72112b23f74?pvs=4)  
   
-  
 ### Version control  
 - [Why should you branch?](https://allenshaing.notion.site/2018-06-02-Why-should-you-branch-fabb13d056074be6adda9d8fba7f6cdc?pvs=4)  
 - [Creating and Applying Patches](https://allenshaing.notion.site/2018-08-13-Creating-and-Applying-Patches-97c7e7e7105c44789684caa0a32eebe5?pvs=4)  
@@ -84,6 +83,9 @@ Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | The first les
 - [管理多個小組會議的實用技巧 feat. Notion](https://medium.com/1-1-with-ateam/%E7%AE%A1%E7%90%86%E5%A4%9A%E5%80%8B%E5%B0%8F%E7%B5%84%E6%9C%83%E8%AD%B0%E7%9A%84%E5%AF%A6%E7%94%A8%E6%8A%80%E5%B7%A7-feat-notion-93a189b83bb3)
 - [為什麼在企業中創新這麼困難?](https://allenshaing.com/%E7%82%BA%E4%BB%80%E9%BA%BC%E5%9C%A8%E4%BC%81%E6%A5%AD%E4%B8%AD%E5%89%B5%E6%96%B0%E9%80%99%E9%BA%BC%E5%9B%B0%E9%9B%A3-5b46b6f101ed)
 
+### AI
+- [Understanding Text-to-Vector Representation: From Tokenization to Embeddings](https://medium.com/a-intelligence/understanding-text-to-vector-representation-from-tokenization-to-embeddings-b59dfdabbbae)
+- [A Comprehensive Comparison of Meta’s Llama Series and the Classic Transformer Architecture](https://medium.com/a-intelligence/a-comprehensive-comparison-of-metas-llama-series-1-2-and-the-classic-transformer-architecture-22de96d54795)
 
 # Natural languages
 Language | Writing | Speaking | Reading | Listing
