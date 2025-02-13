@@ -86,6 +86,7 @@ Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | The first les
 ### AI
 - [Understanding Text-to-Vector Representation: From Tokenization to Embeddings](https://medium.com/a-intelligence/understanding-text-to-vector-representation-from-tokenization-to-embeddings-b59dfdabbbae)
 - [A Comprehensive Comparison of Meta’s Llama Series and the Classic Transformer Architecture](https://medium.com/a-intelligence/a-comprehensive-comparison-of-metas-llama-series-1-2-and-the-classic-transformer-architecture-22de96d54795)
+- [The Evolution from ViT to CLIP to Multimodal Models: Exploring the Future of Vision-Language Integration](https://medium.com/p/91672ab3b47a)
 
 # Natural languages
 Language | Writing | Speaking | Reading | Listing
