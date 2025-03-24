@@ -23,18 +23,25 @@
 
 # Work experience
 ```
-#IoT #AIoT #EdgeComputing #DeepLearning #SoftwareService #SoftwareSolution #InnovationLeadership #CriticalThinking #StrategicDecisionMaking
+🚀 Engineering Manager | Edge AI | Team Builder | Strategic Thinker
 
-With 10+ years of experience in AI and IoT, and 4+ years leading teams, I drive innovation and strategic decisions in Edge Computing. My focus is on fostering collaboration, solving complex challenges, and delivering impactful AI solutions.
+I'm an engineering leader with 10+ years of experience building edge AI solutions from the ground up. With a hybrid background across embedded systems, SDK development, and production-grade AI/IoT platforms, I’ve led teams through ambiguity to launch high-impact products for the industrial vertical market.
 
-10+ years of working experience in AI/IoT, including:
-- 5+ years of experience with technical leadership and people management.
-- 5+ years of relevant work experience in AI solution development in Edge Computing.
+Over the last 5 years, I've grown a high-performing software team at Innodisk, driving initiatives in edge computing, system architecture, and product readiness. I’m passionate about cultivating engineering culture, scaling teams, and aligning technical decisions with business goals.
+
+Currently, I focus on:
+
+- Building scalable SDK & Edge AI platforms
+- Coaching engineers through 1:1s, goal setting, and career development
+- Leading product lifecycle delivery from POC to MP
+- Driving SoC partnerships and cross-functional collaboration
+
+Let’s talk about leadership, innovation, and building systems that last.
 ```
 
 Period | Company | Link
 --- | --- | ---
-Aug. 2022 - Current | Assistant manager, Innodisk | [2022-24](./2022-24/ReadMe.md)
+Aug. 2022 - Current | Assistant manager, Innodisk | [2022-](./2022-/ReadMe.md)
 Aug. 2020 - Jul. 2022 | Section manager, Innodisk | [2020](./2020/ReadMe.md), [2021](./2021/ReadMe.md), [2022](./2022-24/ReadMe.md)
 Jul. 2018 - Aug. 2020 | Senior SW, Innodisk | [2018](./2018/ReadMe.md), [2019](./2019/ReadMe.md), [2020](./2020/ReadMe.md)
 Jan. 2017 - Jul. 2018 | SW, Innodisk | [2017](./2017/ReadMe.md), [2018](./2018/ReadMe.md)
@@ -88,6 +95,7 @@ Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | The first les
 - [A Comprehensive Comparison of Meta’s Llama Series and the Classic Transformer Architecture](https://medium.com/a-intelligence/a-comprehensive-comparison-of-metas-llama-series-1-2-and-the-classic-transformer-architecture-22de96d54795)
 - [The Evolution from ViT to CLIP to Multimodal Models: Exploring the Future of Vision-Language Integration](https://medium.com/p/91672ab3b47a)
 - [我與YOLO的十年，物件偵測技術回顧與未來期待](https://medium.com/p/ca1793e84782)  
+- [Understanding Softmax: A Journey into Probability and Euler’s number 從Softmax了解機率與分布及自然常數](httptmax%E4%BA%86%E8%A7%A3%E6%A9%9F%E7%8E%87%E8%88%87%E5%88%86%E5%B8%83%E5%8F%8A%E8%87%AA%E7%84%B6%E5%B0%8D%E6%95%B8-9bf9a44eaa08https://medium.com/allenshaing/%E5%BE%9Esoftmax%E4%BA%86%E8%A7%A3%E6%A9%9F%E7%8E%87%E8%88%87%E5%88%86%E5%B8%83%E5%8F%8A%E8%87%AA%E7%84%B6%E5%B0%8D%E6%95%B8-9bf9a44eaa08)  
 
 # Natural languages
 Language | Writing | Speaking | Reading | Listing
