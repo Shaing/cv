@@ -95,7 +95,7 @@ Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | The first les
 - [A Comprehensive Comparison of Meta’s Llama Series and the Classic Transformer Architecture](https://medium.com/a-intelligence/a-comprehensive-comparison-of-metas-llama-series-1-2-and-the-classic-transformer-architecture-22de96d54795)
 - [The Evolution from ViT to CLIP to Multimodal Models: Exploring the Future of Vision-Language Integration](https://medium.com/p/91672ab3b47a)
 - [我與YOLO的十年，物件偵測技術回顧與未來期待](https://medium.com/p/ca1793e84782)  
-- [Understanding Softmax: A Journey into Probability and Euler’s number 從Softmax了解機率與分布及自然常數](httptmax%E4%BA%86%E8%A7%A3%E6%A9%9F%E7%8E%87%E8%88%87%E5%88%86%E5%B8%83%E5%8F%8A%E8%87%AA%E7%84%B6%E5%B0%8D%E6%95%B8-9bf9a44eaa08https://medium.com/allenshaing/%E5%BE%9Esoftmax%E4%BA%86%E8%A7%A3%E6%A9%9F%E7%8E%87%E8%88%87%E5%88%86%E5%B8%83%E5%8F%8A%E8%87%AA%E7%84%B6%E5%B0%8D%E6%95%B8-9bf9a44eaa08)  
+- [Understanding Softmax: A Journey into Probability and Euler’s number 從Softmax了解機率與分布及自然常數](https://medium.com/allenshaing/%E5%BE%9Esoftmax%E4%BA%86%E8%A7%A3%E6%A9%9F%E7%8E%87%E8%88%87%E5%88%86%E5%B8%83%E5%8F%8A%E8%87%AA%E7%84%B6%E5%B0%8D%E6%95%B8-9bf9a44eaa08)  
 
 # Natural languages
 Language | Writing | Speaking | Reading | Listing
