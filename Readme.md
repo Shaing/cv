@@ -1,8 +1,8 @@
 # Allen Huang's Curriculum vitae
 ` Strive for consistency. Not perfection.`
 
-![jane_2023](jane_2023.jpg)
-`Jane in the one-year-old catch, 2023.`
+![jane_nane_2025](jane_nane_2025.jpg)
+`Nane in the one-year-old catch with Jane, 2025.`
 
 # Contact information
 - Allen Huang
@@ -31,9 +31,9 @@ Over the last 5 years, I've grown a high-performing software team at Innodisk, d
 
 Currently, I focus on:
 
-- Building scalable SDK & Edge AI platforms
+- Building scalable SDK & Edge AI platforms & AI Services
 - Coaching engineers through 1:1s, goal setting, and career development
-- Leading product lifecycle delivery from POC to MP
+- Leading product lifecycle delivery from DVT to MP
 - Driving SoC partnerships and cross-functional collaboration
 
 Let’s talk about leadership, innovation, and building systems that last.
@@ -41,7 +41,7 @@ Let’s talk about leadership, innovation, and building systems that last.
 
 Period | Company | Link
 --- | --- | ---
-Aug. 2022 - Current | Assistant manager, Innodisk | [2022-](./2022-/ReadMe.md)
+Aug. 2022 - Current | Assistant manager, Innodisk | [2022-Current](./2022-/ReadMe.md)
 Aug. 2020 - Jul. 2022 | Section manager, Innodisk | [2020](./2020/ReadMe.md), [2021](./2021/ReadMe.md), [2022](./2022-24/ReadMe.md)
 Jul. 2018 - Aug. 2020 | Senior SW, Innodisk | [2018](./2018/ReadMe.md), [2019](./2019/ReadMe.md), [2020](./2020/ReadMe.md)
 Jan. 2017 - Jul. 2018 | SW, Innodisk | [2017](./2017/ReadMe.md), [2018](./2018/ReadMe.md)
@@ -96,6 +96,8 @@ Dec. 2012 - Nov. 2014 | PE, GRIZZLY TM Automatic Entrance System | The first les
 - [The Evolution from ViT to CLIP to Multimodal Models: Exploring the Future of Vision-Language Integration](https://medium.com/p/91672ab3b47a)
 - [我與YOLO的十年，物件偵測技術回顧與未來期待](https://medium.com/p/ca1793e84782)  
 - [Understanding Softmax: A Journey into Probability and Euler’s number 從Softmax了解機率與分布及自然常數](https://medium.com/allenshaing/%E5%BE%9Esoftmax%E4%BA%86%E8%A7%A3%E6%A9%9F%E7%8E%87%E8%88%87%E5%88%86%E5%B8%83%E5%8F%8A%E8%87%AA%E7%84%B6%E5%B0%8D%E6%95%B8-9bf9a44eaa08)  
+
+More articles on [allenshaing.com](https://allenshaing.com)
 
 # Natural languages
 Language | Writing | Speaking | Reading | Listing

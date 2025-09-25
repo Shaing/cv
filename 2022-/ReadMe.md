@@ -25,6 +25,7 @@
 - Designed and analyzed AI application solutions.
 - Led R&D teams to complete multiple Proof of Concept (POC) projects. Ref fo [EXMU-X261-usermanual](https://github.com/InnoIPA/EXMU-X261-usermanual) 
 - Managed a team to achieve a successful AI solution implementation. [AI-Powered: FPGA Solutions for Monitoring PPE Compliance](https://www.innodisk.com/cht/case-study/fpga-solutions-for-monitoring-ppe-compliance)
+- Designed and led teams to generate innovative ideas that drove key projects forward. [iQ-Studio](https://github.com/InnoIPA/iQ-Studio)
 
 ### Skills
 - Sprint and Iteration Burn-Down Reports
@@ -54,3 +55,4 @@ AI | Utility | [vaiGO](https://github.com/InnoIPA/vaiGO)
 OTA | Utility | [EXMU-X261-swu-utility](https://github.com/InnoIPA/EXMU-X261-swu-utility)
 CAMERA | Driver | [EV2M-OOM1](https://www.innodisk.com/en/products/embedded-peripheral/camera-module/ev2m-oom1), [EV2M-GOM1](https://www.innodisk.com/en/products/embedded-peripheral/camera-module/ev2m-gom1)
 AI | Solution | [PPE Solution](https://www.innodisk.com/en/applications/InnoPPE), [(Video): InnoPPE: Personal Protective Equipment (PPE) Recognition Solution](https://www.youtube.com/watch?v=c2Ny1DY2oKg), [(News)宜鼎推InnoPPE安全裝備AI辨識解決方案 守護職場安全](https://rcwww.innodisk.com/cht/news/innoppe-ai-recognition-solution)
+AI | Product | [iQ Studio](https://github.com/InnoIPA/iQ-Studio)
